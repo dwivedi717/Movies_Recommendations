@@ -39,7 +39,7 @@ To use the movie recommendation system in your Jupyter Notebook, follow these st
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
 
     ```bash
-    git clone https://github.com/MuskanRaisinghani23/Movie-Recommendation-System.git
+    git clone https://github.com/dwivedi717/Movies_Recommendations.git
     ```
 
 2. **Python**: Ensure Python is installed on your system.
